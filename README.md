@@ -1,5 +1,5 @@
 # Online-Radio
-Online Tamil Radio channels. Inspired by http://radio.garden
+Online Tamil Radio channels. Inspired by http://radio.garden - valarpirai/Online-Radio: Online Tamil Radio channels. Inspired by http://radio.garden (github.com)
 
 # Hosted on Github pages
 https://valarpirai.github.io/Online-Radio/
