@@ -1,7 +1,7 @@
 $(document).ready(function() {
     'use strict';
 
-    var liveRadioListUrl = "https://gist.githubusercontent.com/valarpirai/473305f09f8433f1d338634ed42c437d/raw/live-radio.json?id=" + new Date().getTime();;
+    var liveRadioListUrl = "https://raw.githubusercontent.com/B45i/Malayalam-Online-Radio-Stations/master/radiosindia-malayalam%2Cjson" + new Date().getTime();;
 
     var stationList = {};
     var selectedStationList = [];
